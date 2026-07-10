@@ -1,0 +1,7 @@
+I am a fix file which will be used to fix the bug
+Fixed another bug
+One more bug is detected and fixed
+Fourth bug fixed
+Fifth bug fixed
+pinkmode fix - one more bug fixed
+another fix message for pink mode

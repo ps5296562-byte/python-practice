@@ -1,0 +1,7 @@
+this is my file 2 for git course
+adding more content to file two
+Add another marketing message section
+This is a new line for Git practice
+Add footer note
+2027 is coming
+2025 footer year added
